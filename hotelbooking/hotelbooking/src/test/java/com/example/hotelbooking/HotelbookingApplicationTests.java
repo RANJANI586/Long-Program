@@ -10,4 +10,4 @@ class HotelbookingApplicationTests {
     void contextLoads() {
     }
 
-}
+} 
