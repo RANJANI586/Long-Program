@@ -9,5 +9,4 @@ class BillingSystemApplicationTests {
     @Test
     void contextLoads() {
     }
-
 }
